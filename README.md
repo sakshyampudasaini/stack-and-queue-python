@@ -17,8 +17,8 @@ No special installation is required. Ensure you have Python 3.x installed on you
 1. Clone the repository or download the stack.py file.  
 2. Run the program using the command:  
    
-   ```bash
-   python stack.py
+        ```bash
+        stack_program.py
    
 3.Follow the on-screen menu to perform stack operations by entering the corresponding number.
 
