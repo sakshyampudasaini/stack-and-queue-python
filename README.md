@@ -17,10 +17,11 @@ No special installation is required. Ensure you have Python 3.x installed on you
 1. Clone the repository or download the stack.py file.  
 2. Run the program using the command:  
    
-bash
+   ```bash
    python stack.py
    
 3.Follow the on-screen menu to perform stack operations by entering the corresponding number.
+
 
 
 Requirements
@@ -34,7 +35,9 @@ Python 3.x
 5. Exit
 
 Enter your choice: 1
+
 Enter the value: 10
+
 Current Stack: [10]
 
 Author: Sakshyam Pudasaini
