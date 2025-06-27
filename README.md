@@ -19,9 +19,14 @@ No special installation is required. Ensure you have Python 3.x installed on you
    
 bash
    python stack.py
+   
 3.Follow the on-screen menu to perform stack operations by entering the corresponding number.
+
+
 Requirements
 Python 3.x
+
+
 1. Push Element
 2. Pop Element
 3. Peek Element
