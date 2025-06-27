@@ -24,10 +24,10 @@ No special installation is required. Ensure you have Python 3.x installed on you
 
 
 
-Requirements
-
+Requirements:-
 Python 3.x
 
+Example:-
 
 1. Push Element
 2. Pop Element
